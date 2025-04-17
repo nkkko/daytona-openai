@@ -1,4 +1,7 @@
-from daytona_openai import DaytonaOpenAI
+from dotenv import load_dotenv
+from daytona_openai_demo import DaytonaOpenAI
+
+load_dotenv()
 
 client = DaytonaOpenAI()
 

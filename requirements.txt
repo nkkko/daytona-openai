@@ -1,0 +1,4 @@
+openai>=1.75.0
+daytona-sdk>=0.14.0
+pytest>=7.0.0
+pytest-cov>=4.0.0
